@@ -32,3 +32,8 @@ The official website has a number of patches that can add extra functionality to
 * [dwm - archwiki](https://wiki.archlinux.org/index.php/dwm)
 * [dwm customisation](https://www.linuxjournal.com/content/going-fast-dwm)
 * [dwm visual guide !important](http://ratfactor.com/dwm.html)
+
+## additional links
+
+* [dotfiles](https://github.com/pavanjadhaw/etc) - configuration files for my dwm setup
+* [scripts](https://github.com/pavanjadhaw/bin) - scripts my setup is dependent on
